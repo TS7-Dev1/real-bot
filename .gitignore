@@ -1,0 +1,8 @@
+node_modules
+*-lock.json
+*.vsix
+.env
+.bat
+.close-bot.bat
+testing
+commands/test.js
